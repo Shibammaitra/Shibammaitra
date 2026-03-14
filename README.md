@@ -1,17 +1,19 @@
 # Shibam Maitra
 
-**Data Science | AI & IoT | LLM**
+**Data Science | AI & IoT Specialist**
 
-BCA student with strong expertise in deep learning, data science, and business logic. Specializes in predictive analytics, IoT systems, and transforming data into actionable business insights.
+BCA student specializing in deep learning, data science, business logic, predictive analytics, and intelligent IoT systems.
 
 ## Technical Skills
 
-**Languages & Frameworks**  
-Python, MicroPython, SQL, TensorFlow, PyTorch, Scikit-Learn, Socket, Pyserial, Adafruit CircuitPython
+**Core Stack**  
+Python, MicroPython, TensorFlow, PyTorch, LangChain, SQL
 
-**Data & IoT**  
-Pandas, NumPy, Tableau, Power BI, MySQL, Docker, Git  
-**MQTT, ESP32, Raspberry Pi, Sensor Integration**
+**Data & Visualization**  
+Pandas, NumPy, Tableau, Power BI
+
+**IoT & Edge**  
+MQTT, ESP32, Raspberry Pi, Sensor Fusion, Docker, Git
 
 ## Connect
 
@@ -20,4 +22,4 @@ Pandas, NumPy, Tableau, Power BI, MySQL, Docker, Git
 
 ---
 
-*Data-driven. Business-focused.*
+*Data → Intelligence → Impact*
