@@ -1,34 +1,23 @@
 # Shibam Maitra
 
-**Aspiring Data Scientist | Data Analyst | AI & IoT Enthusiast**
+**Aspiring Data Scientist | AI & IoT Specialist**
 
-BCA student passionate about transforming data into actionable insights through data science, machine learning, deep learning, and IoT systems. Experienced in applying business logic to solve real-world problems in predictive analytics and automation.
+BCA student with strong expertise in deep learning, data science, and business logic. Specializes in predictive analytics, IoT systems, and transforming data into actionable business insights.
 
 ## Technical Skills
 
-**Programming Languages**  
-Python, R, SQL, C, C++, Java
+**Languages & Frameworks**  
+Python, R, SQL, TensorFlow, PyTorch, Scikit-Learn
 
-**Data Analysis & Visualization**  
-Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
+**Data & IoT**  
+Pandas, NumPy, Tableau, Power BI, MySQL, Docker, Git  
+**MQTT, ESP32, Raspberry Pi, Sensor Integration**
 
-**Machine Learning & Deep Learning**  
-Scikit-Learn, TensorFlow, PyTorch, XGBoost
-
-**Data Science Expertise**  
-Data cleaning, feature engineering, statistical analysis, predictive modeling, time series analysis, anomaly detection, business logic implementation
-
-**Databases**  
-MySQL, PostgreSQL, MongoDB
-
-**Tools & Platforms**  
-Jupyter Notebook, Google Colab, Git/GitHub, Docker, Linux
-
-## Connect With Me
+## Connect
 
 - LinkedIn: [linkedin.com/in/shibam-maitra-901060265](https://linkedin.com/in/shibam-maitra-901060265)
-- Email: [peronal.shibam@gmail.com](mailto:personal.shibam@gmail.com)
+- Email: [peronal.shibam@gmail.com](mailto:peronal.shibam@gmail.com)
 
 ---
 
-*Always learning, always building.*
+*Data-driven. Business-focused.*
