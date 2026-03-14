@@ -26,8 +26,8 @@ Jupyter Notebook, Google Colab, Git/GitHub, Docker, Linux
 
 ## Connect With Me
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: [yourmail@email.com](mailto:yourmail@email.com)
+- LinkedIn: [linkedin.com/in/shibam-maitra-901060265](https://linkedin.com/in/shibam-maitra-901060265)
+- Email: [peronal.shibam@gmail.com](mailto:personal.shibam@gmail.com)
 
 ---
 
