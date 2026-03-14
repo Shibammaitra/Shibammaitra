@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Shibam+Maitra;Data+Scientist;AI+%7C+ML+%7C+IoT+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Shibam+Maitra" />
 </p># Hi there 👋 I'm Shibam Maitra
 
 🚀 **Aspiring Data Scientist | Data Analyst | AI & IoT Enthusiast**
@@ -10,11 +10,11 @@ I am passionate about transforming raw data into meaningful insights using **dat
 
 ## 👨‍💻 About Me
 
-* 🎓 BCA Student interested in **Data Science & Artificial Intelligence**
-* 📊 Skilled in **Data Analysis and Visualization**
-* 🤖 Currently learning **Machine Learning and Deep Learning**
-* 🔬 Interested in **IoT + AI based systems**
-* 📈 Love building projects that combine **data, automation, and intelligence**
+*  BCA Student interested in **Data Science & Artificial Intelligence**
+*  Skilled in **Data Analysis and Visualization**
+*  Currently learning **Machine Learning and Deep Learning**
+*  Interested in **IoT + AI based systems**
+*  Love building projects that combine **data, automation, and intelligence**
 
 ---
 
@@ -67,38 +67,6 @@ I am passionate about transforming raw data into meaningful insights using **dat
 * Docker
 * Linux
 
----
-
-## 📂 Featured Projects
-
-### 📊 IoT EMG Muscle Strength Analysis
-
-* Collected EMG sensor data
-* Stored data in database
-* Analyzed trends using Python
-* Visualized results using graphs and dashboards
-
-### 🤖 Smart Fan Automation System
-
-* Built using **YOLOv8 + Arduino**
-* Detects human presence
-* Optimizes energy consumption
-
-### 📈 Anomaly Detection using LSTM + Transformer
-
-* NASA sensor dataset
-* Attention heatmap visualization
-* Sensor contribution analysis
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
