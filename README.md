@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Shibam+Maitra" />
 </p># Hi there 👋 I'm Shibam Maitra
 
-🚀 **Aspiring Data Scientist | Data Analyst | AI & IoT Enthusiast**
+ **Aspiring Data Scientist | Data Analyst | AI & IoT Enthusiast**
 
 I am passionate about transforming raw data into meaningful insights using **data analysis, machine learning, and visualization techniques**. I enjoy working on real-world problems involving **AI, IoT systems, and predictive analytics**.
 
