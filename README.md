@@ -7,7 +7,7 @@ BCA student with strong expertise in deep learning, data science, and business l
 ## Technical Skills
 
 **Languages & Frameworks**  
-Python, R, SQL, TensorFlow, PyTorch, Scikit-Learn
+Python, MicroPython, SQL, TensorFlow, PyTorch, Scikit-Learn, Socket, Pyserial, Adafruit CircuitPython
 
 **Data & IoT**  
 Pandas, NumPy, Tableau, Power BI, MySQL, Docker, Git  
