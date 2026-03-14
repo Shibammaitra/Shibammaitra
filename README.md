@@ -7,7 +7,7 @@ BCA student passionate about transforming data into actionable insights through 
 ## Technical Skills
 
 **Programming Languages**  
-Python, R, SQL, C, Java
+Python, R, SQL, C, C++, Java
 
 **Data Analysis & Visualization**  
 Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
