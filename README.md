@@ -1,6 +1,6 @@
 # Shibam Maitra
 
-**Data Science | AI & IoT Specialist**
+**Data Science | AI & IoT**
 
 BCA student specializing in deep learning, data science, business logic, predictive analytics, and intelligent IoT systems.
 
@@ -22,4 +22,4 @@ MQTT, ESP32, Raspberry Pi, Sensor Fusion, Docker, Git
 
 ---
 
-*Data → Intelligence → Impact*
+*Turning data into real-world solutions.*
