@@ -8,7 +8,7 @@ I am passionate about transforming raw data into meaningful insights using **dat
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 *  BCA Student interested in **Data Science & Artificial Intelligence**
 *  Skilled in **Data Analysis and Visualization**
@@ -18,7 +18,7 @@ I am passionate about transforming raw data into meaningful insights using **dat
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
