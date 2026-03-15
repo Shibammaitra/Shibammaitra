@@ -7,7 +7,7 @@ BCA student specializing in deep learning, data science, business logic, predict
 ## Technical Skills
 
 **Core Stack**  
-Python, MicroPython, TensorFlow, PyTorch, LangChain, SQL
+Python, MicroPython, TensorFlow, PyTorch, LangChain, SQL, NLP
 
 **Data & Visualization**  
 Pandas, NumPy, Tableau, Power BI
