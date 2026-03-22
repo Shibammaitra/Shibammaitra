@@ -1,6 +1,6 @@
 # Shibam Maitra
 
-**Data Science | AI & IoT**
+**Data Scientist | AI & IoT**
 
 BCA student specializing in deep learning, data science, business logic, predictive analytics, and intelligent IoT systems.
 
